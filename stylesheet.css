@@ -95,6 +95,12 @@ heading {
   /* font-weight: 700 */
 }
 
+heading2 {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 18px;
+  /* font-weight: 700 */
+}
+
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
