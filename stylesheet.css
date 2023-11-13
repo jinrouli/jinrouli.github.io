@@ -64,12 +64,23 @@
 }
 
 a {
-  color: #1772d0;
+  color: #348ABF;
   text-decoration: none;
 }
 
 a:focus,
 a:hover {
+  color: #f09228;
+  text-decoration: none;
+}
+
+newslink {
+  color: #348ABF;
+  text-decoration: none;
+}
+
+newslink:focus,
+newslink:hover {
   color: #f09228;
   text-decoration: none;
 }
@@ -89,22 +100,50 @@ strong {
   font-size: 14px;
 }
 
-heading {
+newslink {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
-  /* font-weight: 700 */
+  font-size: 14px
 }
 
-heading2 {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 18px;
-  /* font-weight: 700 */
+heading{
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  /* padding-bottom: 1px; */
+  border-bottom: 5px solid #D8B08C;
 }
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 700
+}
+
+catalog {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 18px;
+  /* font-weight: 500; */
+  line-height: 1.5em;
+  font-style:italic;
+  margin: 1em
+}
+
+news {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+  /* font-weight: 500; */
+  line-height: 1.5em;
+  /* font-style:italic; */
+  /* margin: 1em */
+}
+
+newstitle {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+  /* font-weight: 500; */
+  line-height: 1.5em;
+  /* font-style:italic; */
+  margin: 1em
 }
 
 schoolname {
@@ -114,8 +153,9 @@ schoolname {
 }
 
 name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-family: Arial, sans-serif;
+  font-size: 35px;
+  font-weight: 900;
 }
 
 .one {
