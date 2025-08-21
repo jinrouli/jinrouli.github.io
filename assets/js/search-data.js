@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -442,7 +442,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%6C%69%31%30@%72%6F%63%6B%65%66%65%6C%6C%65%72.%65%64%75", "_blank");
+          window.open("mailto:%6A%69%6E%72%6F%75.%6C%69@%72%6F%63%6B%65%66%65%6C%6C%65%72.%65%64%75", "_blank");
         },
       },{
         id: 'social-linkedin',
