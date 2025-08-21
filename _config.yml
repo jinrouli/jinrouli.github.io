@@ -7,7 +7,7 @@ first_name: Jinrou
 middle_name:
 last_name: Li
 contact_note: >
-  Email: jinrou.li (AT) rockefeller (DOT) edu. <a href="https://jiaruili.com/">🐇</a>
+  Email: jinrou (DOT) li (AT) rockefeller (DOT) edu. <a href="https://jiaruili.com/">🐇</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
