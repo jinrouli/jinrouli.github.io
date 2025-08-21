@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <b>PhD Student</b> at the Rockefeller University
 
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student at the [Rockefeller University](https://www.rockefeller.edu/) in the [de Lange Lab](https://delangelab.org/), where I am advised by [Prof. Titia de Lange](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/871-titia-de-lange/). I earned my Bachelor of Science in [Life Sciences](https://www.bio.pku.edu.cn/en/index/index.html) from [Peking University](https://english.pku.edu.cn/), where I conducted research in [Prof. Yan Song](https://www.yansonglab.org/)'s lab. During my undergraduate studies, I also worked as a visiting researcher in [Prof. Amy Lee](https://leelab.hms.harvard.edu/)'s lab at [Dana-Farber Cancer Institute](https://www.dana-farber.org/), [Harvard Medical School](https://hms.harvard.edu/). 
+I am a Ph.D. student at [the Rockefeller University](https://www.rockefeller.edu/) in the [de Lange Lab](https://delangelab.org/), where I am advised by [Prof. Titia de Lange](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/871-titia-de-lange/). I earned my Bachelor of Science in [Life Sciences](https://www.bio.pku.edu.cn/en/index/index.html) from [Peking University](https://english.pku.edu.cn/), where I conducted research in [Prof. Yan Song](https://www.yansonglab.org/)'s lab. During my undergraduate studies, I also worked as a visiting researcher in [Prof. Amy Lee](https://leelab.hms.harvard.edu/)'s lab at [Dana-Farber Cancer Institute](https://www.dana-farber.org/), [Harvard Medical School](https://hms.harvard.edu/). 
 
 My current work centers on understanding the fundamental molecular processes that govern telomere function. I am particularly interested in telomere maintenance mechanisms and telomere length regulation. 
 
